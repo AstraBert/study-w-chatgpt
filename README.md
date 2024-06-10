@@ -2,7 +2,7 @@
 <h2 align="center">A simple yet really effective tutorial page dedicated to college students who want to get the most out of ChatGPT</h2>
 
 <div align="center">
-  <img src="https://www.pexels.com/photo/laptop-with-chatgpt-ai-system-16094056/">
+  <img src="./pexels-bertellifotografia-16094056.jpg" alt="ChatGPT on a computer in dark mode">
   <p><i>Image by Matheus Bertelli from <a href="https://www.pexels.com/">Pexels</a></i></p>   
 </div>
 
